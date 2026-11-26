@@ -1,0 +1,4 @@
+project_id = "brisa-reservas"
+
+[auth.email]
+enable_confirmations = false
